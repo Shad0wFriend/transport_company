@@ -1,0 +1,1 @@
+Transport{id=2, transportType=WEAPONS, price=122000, isPaid=true, startPoint='zavod Arsenal', endPoint='Afrika', startDate=2022-01-01, endDate=2022-07-15, totalWeight='10'}

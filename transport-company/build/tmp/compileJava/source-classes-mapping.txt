@@ -1,0 +1,34 @@
+entity/Capabilities.java
+ entity.Capabilities
+entity/TransportType.java
+ entity.TransportType
+dao/CapabilitiesDAO.java
+ dao.CapabilitiesDAO
+entity/VehicleType.java
+ entity.VehicleType
+entity/CapabilitiesType.java
+ entity.CapabilitiesType
+entity/TransportCompany.java
+ entity.TransportCompany
+dao/EmployeeDAO.java
+ dao.EmployeeDAO
+dao/ClientDAO.java
+ dao.ClientDAO
+dao/TransportDAO.java
+ dao.TransportDAO
+entity/Transport.java
+ entity.Transport
+dao/VehicleDAO.java
+ dao.VehicleDAO
+dao/TransportCompanyDAO.java
+ dao.TransportCompanyDAO
+conf/SessionFactoryConf.java
+ conf.SessionFactoryConf
+entity/Employee.java
+ entity.Employee
+entity/Vehicle.java
+ entity.Vehicle
+entity/Client.java
+ entity.Client
+Main.java
+ Main
